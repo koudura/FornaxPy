@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="fornaxPy",
+    name="fornax",
     version="0.0.1",
     author="Jedidiah Yohan Enioluwa",
     author_email="kouduraninci@gmail.com",
