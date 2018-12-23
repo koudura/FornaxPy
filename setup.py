@@ -18,11 +18,11 @@ setuptools.setup(
     description="A Port to python of Fornax.Net Search Engine",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/koudura/FornaxPyLib",
+    url="https://github.com/koudura/FornaxPy",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: GNU General Public License v3.0",
         "Operating System :: OS Independent",
     ],
 )
